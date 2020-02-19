@@ -1,1 +1,1 @@
-# all_projects_fit_for_upload
+projects created while studying at Yandex.Practicum (2019)
