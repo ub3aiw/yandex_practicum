@@ -8,7 +8,7 @@
 - pandas
 - seaborn
 - pymystem3
-- mtplotlib
+- matplotlib
 - requests
 - io
 
